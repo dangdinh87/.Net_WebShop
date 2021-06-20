@@ -1,0 +1,24 @@
+﻿
+
+
+ul.pagination > li {
+    padding: 5px 10px;
+    margin-right: 4px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-weight: lighter;
+}
+
+    ul.pagination > li > a {
+        color: black !important;
+    }
+
+    ul.pagination > li.active {
+        color: black;
+        font-weight: bold;
+    }
+
+
+select.tri-state list-box > option {
+
+}
